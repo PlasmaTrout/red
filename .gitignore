@@ -1,0 +1,10 @@
+.idea
+*.log
+*.exe
+build/*
+!build/.keep
+*.so
+*.a
+*.dll
+*.app
+*.dylib
