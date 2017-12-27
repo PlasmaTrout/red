@@ -11,10 +11,11 @@ is optional but highly desired.
 ### Build ###
 Clone the repo and run `./build.sh` which should get you going.
 
-Manually: ```
-cd ./build
-cmake ..
-make
+Manually: 
+```
+   cd ./build
+   cmake ..
+   make
 ```
 
 ### Contributors ###
