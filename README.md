@@ -5,7 +5,7 @@ would like to contribute, check the issues section and submit a pull request.
 
 ### Aim ###
 
-To make a simple, robust, C++ game engine capable of rapid prototyping. Editor 
+To make a simple, robust, C++ game engine capable of rapid prototyping. An editor 
 is optional but highly desired.
 
 ### Build ###
